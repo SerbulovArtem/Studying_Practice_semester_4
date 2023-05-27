@@ -1,0 +1,8 @@
+Sus,Jou,30,Guard,2000
+Andrij,Kravets,32,Cleaner,2500
+DeLano,Rusvelt,40,Manager,5000
+Olk,Patri,20,Guard,3000
+Suzanne,Fleming,23,Cleaner Manager,2100
+Colby,Branch,33,Cleaner,2500
+Marco,Williams,45,Director,10000
+Kelsie,Norman,18,Guard,3000
